@@ -1,0 +1,153 @@
+/* header contact form */
+.header-contact-div{
+    background-color: rgba(173, 173, 173, 0.541);
+    height: 40px;
+
+    
+}
+.contact-icon-div{
+    margin-left: 200px;
+    display: inline-block;
+
+}
+.contact-icon{
+    height: 20px;
+    margin-right: 10px;
+    vertical-align: middle;
+
+    
+    
+}
+.contact-icon-a{
+    color: black;
+    
+}
+.contact-icon-li{
+    display: inline-block;
+    margin-top: 10px;
+    margin-left: 20px;
+}
+.social-contact{
+    display: inline-block;
+    float: right;
+    margin-right: 50px;
+
+
+}
+.social-icon{
+    height: 20px;
+    vertical-align: middle;
+    margin-right: 10px;
+    
+}
+.social-icon-li{
+    display: inline-block;
+    margin-top: 5px;
+
+}
+.search-icon{
+    height: 20px;
+    vertical-align: middle;
+
+}
+.search-button{
+    cursor: pointer;
+    vertical-align: middle;
+    height: 30px;
+}
+.input{
+    height: 25px;
+    vertical-align: middle;
+    border-radius: 4px;
+}
+
+/* header contact form stop */
+
+
+
+
+
+/* header navigation bar  */
+
+.navigation-div{
+    background-color: rgb(43, 190, 196);  
+    border-bottom-style: solid;
+    border-width: 3px;
+    border-color: rgb(4, 119, 119);
+
+}
+.logo{
+    color: rgb(255, 255, 255);
+    text-decoration: none;
+    font-size: 40px;
+    display: inline-block;
+    vertical-align: middle;
+    margin: 15px 40px 15px 220px;
+
+}
+.header-navigation{
+    display: inline-block;
+    margin-left: 150px;
+}
+.navigation-ul{
+
+}
+.navigation-li{
+    display: inline-block;
+    
+}
+.navigation-a{
+    text-decoration: none;
+    display: inline-block;
+    font-size: 20px;
+    padding: 30px 20px;
+    color: white;
+    
+
+}
+.navigation-a:hover {
+    text-decoration: none;
+    display: inline-block;
+    font-size: 20px;
+    padding: 30px 20px;
+    color: white;
+    background-color:  rgb(20, 109, 112);
+    
+
+}
+.navigation-a:active {
+    background-color: #555;
+    color: white;
+}
+
+
+
+
+/*section */
+
+.section-div{
+    background-image: url("https://images.unsplash.com/photo-1483034806857-f6e6310e7506?ixid=MXwxMjA3fDB8MHxzZWFyY2h8M3x8cGhvdG9ncmFwaHklMjBjYW1lcmF8ZW58MHx8MHw%3D&ixlib=rb-1.2.1&w=1000&q=80");
+    height: 600px;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    position: relative;
+    
+}
+.title-div{
+    text-align: center;
+    padding-top: 250px;
+}
+.title-h1{
+    font-size: 30px;
+    color: white;
+    margin-bottom: 10px;
+}
+.title-h2{
+    font-size: 20px;
+    color: white;
+    margin-bottom: 5px;
+}
+.section1-p{
+    color: white;
+}
