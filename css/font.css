@@ -6,3 +6,11 @@
     font-family: "Poppinsmedium";
     src: url("../font/Poppins-medium.ttf");
 }
+@font-face {
+    font-family: "poppinsregulad";
+    src: url("../font/Poppins-Regular.ttf");
+}
+@font-face {
+    font-family: "archivomedium";
+    src: url("../font/Archivo-Medium.ttf");
+}
